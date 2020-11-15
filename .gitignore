@@ -1,0 +1,27 @@
+.vs
+**/*.suo
+bin/
+obj/
+packages/
+
+plugin/**/*.csproj.user
+
+plugin/ThirdParty/
+publish/
+dist/
+.idea/*
+.idea/
+*.iml
+*.swp
+.DS_Store
+util/DEPS.cache
+
+# Python
+__pycache__
+*.py[cod]
+*$py.class
+# Environments
+.env
+.venv
+env/
+venv/
