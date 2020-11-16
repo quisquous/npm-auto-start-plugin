@@ -73,9 +73,7 @@
     <Reference Include="Microsoft.CSharp" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AssemblyResolver.cs" />
     <Compile Include="PluginLoader.cs" />
-    <Compile Include="OverlayAddonMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
